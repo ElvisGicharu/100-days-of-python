@@ -1,0 +1,5 @@
+file_open=open('file1.txt','a')
+file_open.write('I cant find my pen\n')
+file_open.write("I miss my mouse\n")
+file_open.write("I love teaching code")
+file_open.close()
